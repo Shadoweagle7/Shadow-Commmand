@@ -1,0 +1,11 @@
+Outline
+    Server
+        - Responds to commands at own console
+        - Responds to commands sent by other computers with accounts on a local network.
+    Client(s)
+        - Admin
+            - Full Control
+        - Operator
+            - Near Full control, overshadowed by Admin
+        - Levels 0.. N
+            - Levels of access
